@@ -1,0 +1,26 @@
+_repo: Els-camins-del-parad-s-perdut_18198
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riber, Llorenç
+    birthdate: 1881
+    deathdate: 1958
+    gutenberg_agent_id: '7872'
+    url: http://www.gutenberg.org/2009/agents/7872
+description: ''
+gutenberg_issued: '2006-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18198'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PC'
+title: Els camins del paradís perdut
+url: http://www.gutenberg.org/ebooks/18198
